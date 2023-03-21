@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<!-- <div align="center">
   <h2>🏫 Education 🏫</h2>
 SUNGSHIN WOMEN'S UNIVERSITY, Computer Engineering
 </div>
@@ -28,4 +28,4 @@ SUNGSHIN WOMEN'S UNIVERSITY, Computer Engineering
   <p></p>
   <p>🛠️ tools 🛠️</p>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-</div>
+</div> -->
