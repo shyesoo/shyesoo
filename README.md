@@ -15,5 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🏫 Education
-**2018.03 ~ 2023.02** SUNGSHIN WOMEN'S UNIVERSITY, Computer Engineering
+<div align="center">
+  <h2>🏫 Education 🏫</h2>
+  <p>SUNGSHIN WOMEN'S UNIVERSITY, Computer Engineering</p>
+</div>
+
+<div align="center">
+  <h2>📚 Stack 📚</h2>
+<p>✨ languages ✨</p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+
+<p>🛠️ tools 🛠️</p>
+<img src="https://img.shields.io/badge/GitHub&logo=GitHub&logoColor=white"/>
+</div>
