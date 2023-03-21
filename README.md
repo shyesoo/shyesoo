@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#F5A9E1&height=200&section=header&text=hyesoo's Github&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyesoo's Github&fontSize=70" />
 
 <!--
 **shyesoo/shyesoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
