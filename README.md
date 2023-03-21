@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ### 🏫 Education
 
----
-
-===
+___
 
 **2018.03 ~ 2023.02** SUNGSHIN WOMEN'S UNIVERSITY, Computer Engineering
