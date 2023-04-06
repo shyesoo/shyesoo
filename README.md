@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <div align="center">
+<div align="center">
   <h2>🏫 Education 🏫</h2>
 SUNGSHIN WOMEN'S UNIVERSITY, Computer Engineering
 </div>
-
+<!-- 
 <div align="center">
   <h2>📚 Stack 📚</h2>
   <p>✨ languages ✨</p>
